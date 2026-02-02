@@ -14,10 +14,10 @@ Imagine a world where:
 - **Users can** request deletion (GDPR-compliant, unlike pure blockchain)
 
 Today's solutions fail because they're either:
-- ❌ **Too expensive** (storing files on blockchain = massive gas fees)
-- ❌ **Too centralized** (one hack = everything is compromised)
-- ❌ **Too slow** (manual verification takes days)
-- ❌ **Privacy nightmares** (personal data exposed on public blockchain)
+-  **Too expensive** (storing files on blockchain = massive gas fees)
+-  **Too centralized** (one hack = everything is compromised)
+-  **Too slow** (manual verification takes days)
+-  **Privacy nightmares** (personal data exposed on public blockchain)
 
 **MindForge fixes all of this.**
 
@@ -34,8 +34,8 @@ Your Document
     ↓
 [Only SHA-256 Hash Locked on Ethereum] ← Immutable, Trustless, Secure
     ↓
-Verification: Hash matches? = Document is authentic ✅
-            Hash doesn't match? = Document is fake ❌
+Verification: Hash matches? = Document is authentic 
+            Hash doesn't match? = Document is fake 
 ```
 
 **Result:** You get the best of both worlds—blockchain security with cloud-scale efficiency.
@@ -54,7 +54,7 @@ Verification: Hash matches? = Document is authentic ✅
 - Upload a suspect document
 - Auto-hash engine generates the fingerprint instantly
 - Compare against blockchain in seconds
-- Instant verdict: **AUTHENTIC ✅** or **FAKE ❌**
+- Instant verdict: **AUTHENTIC ** or **FAKE **
 - No manual checking. No guesswork.
 
 ###  Privacy & GDPR Compliance
@@ -128,7 +128,7 @@ Open your browser to **http://localhost:5173**
 
 ---
 
-## 💡 How to Use
+##  How to Use
 
 ### For Citizens (Uploading Documents)
 
@@ -153,8 +153,8 @@ Open your browser to **http://localhost:5173**
    - System auto-generates the hash
    - Compares it against the blockchain
 4. **Get instant results:**
-   - ✅ **VERIFIED AUTHENTIC** — File is 100% original
-   - ❌ **FAKE DOCUMENT** — File has been tampered with (even 1 pixel changed)
+   -  **VERIFIED AUTHENTIC** — File is 100% original
+   -  **FAKE DOCUMENT** — File has been tampered with (even 1 pixel changed)
 
 ---
 
@@ -192,7 +192,7 @@ Open your browser to **http://localhost:5173**
 5. Hash is permanently recorded on Ethereum
 6. Raj shares his document ID with an employer
 7. Employer uploads the same document
-8. System auto-verifies: Hash matches = Certificate is authentic ✅
+8. System auto-verifies: Hash matches = Certificate is authentic 
 
 ---
 
