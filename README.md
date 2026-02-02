@@ -1,4 +1,4 @@
-#  MindForge: Decentralized Document Verification System
+MindForge: Decentralized Document Verification System
 Fighting deepfakes and document fraud with a hybrid cloud-blockchain architecture. Verify credentials instantly. Tamper-proof. Privacy-first.
 
 ---
