@@ -1,5 +1,4 @@
 #  MindForge: Decentralized Document Verification System
-
 Fighting deepfakes and document fraud with a hybrid cloud-blockchain architecture. Verify credentials instantly. Tamper-proof. Privacy-first.
 
 ---
@@ -24,7 +23,6 @@ Today's solutions fail because they're either:
 ---
 
 ##  The "Golden Mean" Idea
-
 Instead of storing entire documents on the blockchain (expensive) or in a centralized database (insecure), MindForge does something clever:
 
 ```
@@ -67,7 +65,6 @@ Verification: Hash matches? = Document is authentic
 ---
 
 ##  Tech Stack
-
 | Component | Technology | Why It's Perfect |
 |-----------|-----------|------------------|
 | **Frontend** | React.js + Vite | Fast, responsive, modern UI |
@@ -79,7 +76,7 @@ Verification: Hash matches? = Document is authentic
 
 ---
 
-## 📥 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Node.js (v16+)
@@ -251,7 +248,6 @@ We love contributions! Whether it's:
 ##  License
 
 MIT License — See [LICENSE](./LICENSE) file for details.
-
 This project is open-source and free to use, modify, and distribute.
 
 ---
@@ -259,7 +255,6 @@ This project is open-source and free to use, modify, and distribute.
 ##  Meet the Team
 
 **MINDForge** was built with , by students passionate about cybersecurity, blockchain, and fighting fraud.
-
 **Maintainer:** TEAM MINDForge 
 
 ---
@@ -273,7 +268,6 @@ This project is open-source and free to use, modify, and distribute.
 ---
 
 ##  Show Your Support
-
 If MindForge helped you or you find it useful, please consider:
 -  **Starring** the repository
 -  **Sharing** with friends and colleagues
